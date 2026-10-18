@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ESSS/pytest-regressions/commit/baf5a54685f92b5f399dca7be0e445d4d586db8f",
       "git:hexsha": "baf5a54685f92b5f399dca7be0e445d4d586db8f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/ESSS/pytest-regressions/commit/433bb1f77bc97e05cbd2f7c9a129322d98cabc8f",
