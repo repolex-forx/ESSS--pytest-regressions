@@ -1,0 +1,11 @@
+{
+  "org": "ESSS",
+  "repo": "pytest-regressions",
+  "versions": [
+    {
+      "commit": "baf5a54685f92b5f399dca7be0e445d4d586db8f",
+      "tag": "",
+      "parsed_at": "2026-10-18T05:22:29.447074+00:00"
+    }
+  ]
+}
